@@ -1,6 +1,6 @@
 # Welcome to UGS101-730
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E6l-YPiJI8w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="576" height="360" src="https://www.youtube.com/embed/E6l-YPiJI8w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## This week's Assignments
 
