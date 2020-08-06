@@ -2,6 +2,9 @@
 
 <iframe width="576" height="360" src="https://www.youtube.com/embed/E6l-YPiJI8w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Direct link to the slides](https://docs.google.com/presentation/d/1VgMFkSN_ROtqY1Ggh8cS_iCyv6vpEkyszsVjalkhDUM/edit?usp=sharing)
+
+
 ## This week's Assignments
 
 1. Please fill out the when2meet poll using your MSU NetID as your name.  [When2Meet Link](https://www.when2meet.com/?9486594-9MLdP) Completing this poll using your correct MSU NetID by Friday September 4th and receive 5 points.  
