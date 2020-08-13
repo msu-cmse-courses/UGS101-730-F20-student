@@ -6,6 +6,8 @@ At one point in time, distance learning in higher education included sets of cas
 ## Format
 This single credit seminar course is taught as a live online course with asynchronous options available based on student need.   Students are given short weekly assignments (ex. videos, reading and workshops) designed to help them  learn effectively online and build relationships with their fellow students.   In class students will work individually and in groups in activities designed to engage students and let them take control of their own education.  
 
+- [Course Syllabus](https://docs.google.com/document/d/e/2PACX-1vRT3n1QJyiX8QVwtKLSzMafUcQGJif2ipsgR5giEqchQ5jVBHZRyJKNT30OFifqojdrspXiJUHuGm0Z/pub)
+
 ## Schedule
 
 * [Week 0](https://msu-cmse-courses.github.io/UGS101-730-F20-student/20200907-Introduction_video.html)
