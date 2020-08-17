@@ -14,4 +14,4 @@ This single credit seminar course is taught as a live online course with asynchr
 
 ## Assignments
 
-* [168 hour time log](168_hour_time_long) 
+* [168 hour time log](168_hour_time_log) 
