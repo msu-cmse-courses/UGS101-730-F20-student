@@ -10,7 +10,7 @@ This single credit seminar course is taught as a live online course with asynchr
 
 ## Schedule
 
-* [Week 0](https://msu-cmse-courses.github.io/UGS101-730-F20-student/0907-Introduction_video)
+* [Week 0 - Watch this First](./0907-Introduction_video)
 
 ## Additional Assignments
 
