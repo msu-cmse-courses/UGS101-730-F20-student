@@ -8,10 +8,10 @@ This single credit seminar course is taught as a live online course with asynchr
 
 - [Course Syllabus](https://docs.google.com/document/d/e/2PACX-1vRT3n1QJyiX8QVwtKLSzMafUcQGJif2ipsgR5giEqchQ5jVBHZRyJKNT30OFifqojdrspXiJUHuGm0Z/pub)
 
-## Schedule
+## Weekly Schedule
 
-* [Week 0 - Watch this First](./0907-Introduction_video)
+* [Week 0 - Watch this First](0907-Introduction_video)
 
-## Additional Assignments
+## Assignments
 
-
+* [168 hour time log](168_hour_time_long) 
