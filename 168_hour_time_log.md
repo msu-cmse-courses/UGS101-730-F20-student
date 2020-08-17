@@ -48,3 +48,6 @@ As a class we will need to decide what categories are useful and what are not.  
 As a class we may decide to add or remove catigories.  Make sure you use the notes feild to keep track of your information and feel free to add more columns with different categories for your own personal use.  
 
 When you are done, please download your spreadsheet as a CSV file and submit it to the [Desire2Learn](https://d2l.msu.edu/d2l/home/1172254) course website. 
+
+Writen by Dirk Colbry, Michigan State University
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
