@@ -1,9 +1,9 @@
 # 168 Hour Time Log - Due October 16, 2020
 50 points 
 
-<a href="https://www.amazon.com/dp/159184410X/ref=cm_sw_em_r_mt_dp_FZQoFbJTE4HBS"><img alt="Picture of cover of 168 hour book by Laura Vanderkam" width=200 src=https://lauravanderkam.com/wp-content/uploads/2018/03/168_hours_book_pic-1-668x1024.jpg></a>
+<img alt="Picture of cover of 168 hour book by Laura Vanderkam" width=200 src=https://lauravanderkam.com/wp-content/uploads/2018/03/168_hours_book_pic-1-668x1024.jpg>
 
-This assignment's activity is based on a book by Laura Vanderkam "168 hours: You have more time than you think".  In this assignment I would like you to log what you are doing every 6 minutes for an entire week. We choose 6 minutes because that is 1/10 of an hour and should make it easier to keep track. For example if you sleep 7 hours and 30 mintues that is 7.5 hours in your log.  
+This assignment's activity is based on a book by Laura Vanderkam "<a href="https://www.amazon.com/dp/159184410X/ref=cm_sw_em_r_mt_dp_FZQoFbJTE4HBS">168 hours: You have more time than you think</a>".  In this assignment I would like you to log what you are doing every 6 minutes for an entire week. We choose 6 minutes because that is 1/10 of an hour and should make it easier to keep track. For example if you sleep 7 hours and 30 mintues that is 7.5 hours in your log.  
 
 Please Make a copy of the following google spreadsheet and use it to track your time:
 
