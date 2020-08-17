@@ -10,7 +10,7 @@ This single credit seminar course is taught as a live online course with asynchr
 
 ## Weekly Schedule
 
-* [Week 0 - Watch this First](0907-Introduction_video)
+* [(Week 0) Sept 2 - Sept 4](0907-Introduction_video)
 
 ## Assignments
 
