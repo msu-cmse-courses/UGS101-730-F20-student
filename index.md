@@ -11,6 +11,22 @@ This single credit seminar course is taught as a live online course with asynchr
 ## Weekly Schedule
 
 * [(Week 0) Sept 2 - Sept 4](0907-Introduction_video)
+* (Week 1) Sept 8 - Sept 11 (Labor Day)
+* (Week 2) Sept 14 - Sept 18
+* (Week 3) Sept 21 - Sept 25
+* (Week 4) Sept 28 - Oct 2
+* (Week 5) Oct 5 - Oct 9 
+* (Week 6) Oct 12 - Oct 16 
+* (Week 7) Oct 19 - Oct 23 
+* (Week 8) Oct 26 - Oct 30 
+* (Week 9) Nov 2 - Nov 13 
+* (Week 10) Nov 2 - Nov 13 
+* (Week 11) Nov 15 - Nov 20 
+* (Week 12) Nov 23 - Nov 25 (Thanksgiving) 
+* (Week 13) Nov 30 - Dec 4
+* (week 14) Dec 7 - Dec 11 
+
+
 
 ## Current Assignments
 
