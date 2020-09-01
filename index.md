@@ -36,7 +36,7 @@ This single credit seminar course is taught as a live online course with asynchr
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
 * [168 hour time log (Due October 16th)](168_hour_time_log) 
 * [Planning Meeting (Due before Thanksgiving break)](Planning_meeting)
-* [Graduate Mentors (Multiple deadlines)](Mentors]
+* [Graduate Mentors (Multiple deadlines)](Mentors)
 
 ## Past Assignments
 
