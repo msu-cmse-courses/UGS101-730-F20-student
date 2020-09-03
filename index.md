@@ -12,7 +12,7 @@ This single credit seminar course is taught as a live online course with asynchr
 ## Schedule
 
 * [(Week 0) Sept 2 - Sept 4](0907-Introduction_video)
-* (Week 1) Sept 8 - Sept 11 (Labor Day)
+* [(Week 1) Sept 8 - Sept 11 (Labor Day week)](0908-Introduction_Seminar)
 * (Week 2) Sept 14 - Sept 18
 * (Week 3) Sept 21 - Sept 25
 * (Week 4) Sept 28 - Oct 2
@@ -32,6 +32,7 @@ This single credit seminar course is taught as a live online course with asynchr
 ## Current Assignments
 
 * [Student Availability Poll (Due Sept 4th)](Availability_Poll)
+* [First Live Seminar (Sept 8th 2-3pm EST)](0908-Introduction_Seminar)
 * [(Discussion) Introductions (Due Sept 11th)](Introductions)
 * [Class Attendance (Times will vary by week, see Announcemen)](Class_Attendance)
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
