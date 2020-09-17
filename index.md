@@ -14,7 +14,7 @@ This single credit seminar course is taught as a live online course with asynchr
 * [(Week 0) Sept 2 - Sept 4](0907-Introduction_video)
 * [(Week 1) Sept 8 - Sept 11 (Labor Day week)](0908-Introduction_Seminar)
 * [(Week 2) Sept 14 - Sept 18](0914-D2L_Seminar)
-* (Week 3) Sept 21 - Sept 25
+* [(Week 3) Sept 21 - Sept 25](0918-Online_Technology_Questions_and_Ideas)
 * (Week 4) Sept 28 - Oct 2
 * (Week 5) Oct 5 - Oct 9 
 * (Week 6) Oct 12 - Oct 16 
