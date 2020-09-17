@@ -31,6 +31,7 @@ This single credit seminar course is taught as a live online course with asynchr
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
 * Weekly D2L Disscution Topics
 	* [Online learning technology (Due Sept 18th)](0918-Online_Technology_Questions_and_Ideas)
+	* [Sharing Interpersonal Problems (Due Sept 24th)](0925-Sharing_interpersonal_Problems)
 
 ## Current Assignments
 * [168 hour time log (Due October 16th)](168_hour_time_log) 
