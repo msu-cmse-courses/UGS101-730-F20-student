@@ -27,11 +27,12 @@ This single credit seminar course is taught as a live online course with asynchr
 * (Week 13) Nov 30 - Dec 4
 * (week 14) Dec 7 - Dec 11 
 
+## Weekly Assignments
+* [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
+* Weekly D2L Disscution Topics
+	* [Online learning technology (Due Sept 18th)](0918-Online_Technology_Questions_and_Ideas)
 
 ## Current Assignments
-
-* [D2L Seminar (Monday Sept 4th 5-6pm)](0914-D2L_Seminar.html) 
-* [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
 * [168 hour time log (Due October 16th)](168_hour_time_log) 
 * [Planning Meeting (Due before Thanksgiving break)](Planning_meeting)
 * [Graduate Mentors (Multiple deadlines)](Mentors)
@@ -41,3 +42,4 @@ This single credit seminar course is taught as a live online course with asynchr
 * [Student Availability Poll (Due Sept 4th)](Availability_Poll)
 * [First Live Seminar (Sept 8th 2-3pm EST)](0908-Introduction_Seminar)
 * [(Discussion) Introductions (Due Sept 11th)](Introductions)
+* [D2L Seminar (Monday Sept 4th 5-6pm)](0914-D2L_Seminar.html) 
