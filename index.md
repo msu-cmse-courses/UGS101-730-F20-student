@@ -15,7 +15,7 @@ This single credit seminar course is taught as a live online course with asynchr
 * [(Week 1) Sept 8 - Sept 11 (Labor Day week)](0908-Introduction_Seminar)
 * [(Week 2) Sept 14 - Sept 18](0914-D2L_Seminar)
 * [(Week 3) Sept 21 - Sept 25](0924-Interpersonal_Problem_Solving)
-* (Week 4) Sept 28 - Oct 2
+* [(Week 4) Sept 28 - Oct 2](1001-Data_Science_QnA)
 * (Week 5) Oct 5 - Oct 9 
 * (Week 6) Oct 12 - Oct 16 
 * (Week 7) Oct 19 - Oct 23 
@@ -32,7 +32,7 @@ This single credit seminar course is taught as a live online course with asynchr
 * Weekly D2L Disscution Topics
 	* [Online learning technology (Due Sept 18th)](0918-Online_Technology_Questions_and_Ideas)
 	* [Sharing Interpersonal Problems (Due Sept 24th)](0925-Sharing_interpersonal_Problems)
-
+	* [Questions about Data Science Degrees (Due Sept 30th)](0930-Questions_about_Data_Science_Degree)
 ## Current Assignments
 * [168 hour time log (Due October 16th)](168_hour_time_log) 
 * [Planning Meeting (Due before Thanksgiving break)](Planning_meeting)
