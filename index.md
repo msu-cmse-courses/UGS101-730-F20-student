@@ -30,7 +30,6 @@ This single credit seminar course is taught as a live online course with asynchr
 ## Weekly Assignments
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
 * Weekly D2L Disscution Topics
-	* [Online learning technology (Due Sept 18th)](0918-Online_Technology_Questions_and_Ideas)
 	* [Sharing Interpersonal Problems (Due Sept 24th)](0925-Sharing_interpersonal_Problems)
 	* [Questions about Data Science Degrees (Due Sept 30th)](0930-Questions_about_Data_Science_Degree)
 ## Current Assignments
@@ -43,4 +42,5 @@ This single credit seminar course is taught as a live online course with asynchr
 * [Student Availability Poll (Due Sept 4th)](Availability_Poll)
 * [First Live Seminar (Sept 8th 2-3pm EST)](0908-Introduction_Seminar)
 * [(Discussion) Introductions (Due Sept 11th)](Introductions)
-* [D2L Seminar (Monday Sept 4th 5-6pm)](0914-D2L_Seminar.html) 
+* [D2L Seminar (Monday Sept 14th 5-6pm)](0914-D2L_Seminar.html) 
+* [Online learning technology (Due Sept 18th)](0918-Online_Technology_Questions_and_Ideas)
