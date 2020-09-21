@@ -33,6 +33,7 @@ This single credit seminar course is taught as a live online course with asynchr
 	* [Online learning technology (UPDATED - Due Sept 24th)](0924-Online_Technology_Questions_and_Ideas)
 	* [Sharing Interpersonal Problems (Due Sept 24th)](0925-Sharing_interpersonal_Problems)
 	* [Questions about Data Science Degrees (Due Sept 30th)](0930-Questions_about_Data_Science_Degree)
+
 ## Current Assignments
 * [168 hour time log (Due October 16th)](168_hour_time_log) 
 * [Planning Meeting (Due before Thanksgiving break)](Planning_meeting)
