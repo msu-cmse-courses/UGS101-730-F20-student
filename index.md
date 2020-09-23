@@ -35,6 +35,7 @@ This single credit seminar course is taught as a live online course with asynchr
 	* [Questions about Data Science Degrees (Due Sept 30th)](0930-Questions_about_Data_Science_Degree)
 
 ## Current Assignments
+* [Student Availability Poll Version 2.0 (Due Oct 2nd)](1002-Availability_Poll-V2)
 * [168 hour time log (Due October 16th)](168_hour_time_log) 
 * [Planning Meeting (Due before Thanksgiving break)](Planning_meeting)
 * [Graduate Mentors (Multiple deadlines)](Mentors)
