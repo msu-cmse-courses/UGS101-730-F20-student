@@ -16,7 +16,7 @@ This single credit seminar course is taught as a live online course with asynchr
 * [(Week 2) Sept 14 - Sept 18](0914-D2L_Seminar)
 * [(Week 3) Sept 21 - Sept 25](0924-Interpersonal_Problem_Solving)
 * [(Week 4) Sept 28 - Oct 2](1001-Data_Science_QnA)
-* (Week 5) Oct 5 - Oct 9 
+* [(Week 5) Oct 5 - Oct 9](1008-Adam_Alessio) 
 * (Week 6) Oct 12 - Oct 16 
 * (Week 7) Oct 19 - Oct 23 
 * (Week 8) Oct 26 - Oct 30 
