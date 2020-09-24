@@ -12,7 +12,7 @@ This single credit seminar course is taught as a live online course with asynchr
 ## Schedule
 
 * [(Week 0) Sept 2 - Sept 4](0907-SEMINAR-Welcome)
-* [(Week 1) Sept 8 - Sept 11 (Labor Day week)](0908-SEMINAR-Introduction_Seminar)
+* [(Week 1) Sept 8 - Sept 11 (Labor Day week)](0908-SEMINAR-Introduction)
 * [(Week 2) Sept 14 - Sept 18](0914-SEMINAR-D2L)
 * [(Week 3) Sept 21 - Sept 25](0924-SEMINAR-Interpersonal_Problem_Solving)
 * [(Week 4) Sept 28 - Oct 2](1001-SEMINAR-Data_Science_QnA)
@@ -30,9 +30,9 @@ This single credit seminar course is taught as a live online course with asynchr
 ## Weekly Assignments
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
 * Weekly D2L Disscution Topics
-	* [Sharing Interpersonal Problems (Due Sept 24th)](0925-DISCUSSION-Sharing_interpersonal_Problems)
+	* [Sharing Interpersonal Problems (Due Sept 24th)](0924-DISCUSSION-Sharing_interpersonal_Problems)
 	* [Online learning technology (UPDATED - Due Sept 25th)](0925-DISCUSSION-Online_Technology_Questions_and_Ideas)
-	* [Questions about Data Science Degrees (Due Sept 30th)](0930-DISCUSSION-Questions_about_Data_Science_Degree)
+	* [Questions about Data Science Degrees (Due Sept 30th)](1002-DISCUSSION-Questions_about_Data_Science_Degree)
 
 ## Current Assignments
 * [Student Availability Poll Version 2.0 (Due Oct 2nd)](1002-Availability_Poll-V2)
@@ -43,5 +43,4 @@ This single credit seminar course is taught as a live online course with asynchr
 ## Past Assignments
 
 * [Student Availability Poll (Due Sept 4th)](Availability_Poll)
-* [First Live Seminar (Sept 8th 2-3pm EST)](0908-SEMINAR-Introduction_Seminar)
 * [(Discussion) Introductions (Due Sept 11th)](0911-DISCUSSION-Introductions)
