@@ -17,7 +17,7 @@ This single credit seminar course is taught as a live online course with asynchr
 * [(Week 3) Sept 21 - Sept 25](0924-SEMINAR-Interpersonal_Problem_Solving)
 * [(Week 4) Sept 28 - Oct 2](1001-SEMINAR-Data_Science_QnA)
 * [(Week 5) Oct 5 - Oct 9](1008-SEMINAR-Adam_Alessio) 
-* (Week 6) Oct 12 - Oct 16 
+* [(Week 6) Oct 12 - Oct 16](1016-SEMINAR-Personalities.ipynb)
 * (Week 7) Oct 19 - Oct 23 
 * (Week 8) Oct 26 - Oct 30 
 * (Week 9) Nov 2 - Nov 13 
@@ -30,12 +30,12 @@ This single credit seminar course is taught as a live online course with asynchr
 ## Weekly Assignments
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
 * Weekly D2L Disscution Topics
-	* [(Discussion) Sharing Interpersonal Problems (Due Sept 24th)](0924-DISCUSSION-Sharing_interpersonal_Problems)
-	* [(Discussion) Online learning technology (UPDATED - Due Sept 25th)](0925-DISCUSSION-Online_Technology_Questions_and_Ideas)
 	* [(Discussion) Questions about Data Science Degrees (Due Sept 30th)](1002-DISCUSSION-Questions_about_Data_Science_Degree)
+	* [(Discussion) High Impact Learning (Due October 7th)](1007-DISCUSSION-High_Impact_Learning)
 
 ## Current Assignments
 * [Student Availability Poll Version 2.0 (Due Oct 2nd)](1002-Availability_Poll-V2)
+* [Personality Assessment (Due Octber 15th)](1015-Personallity_Assessment)
 * [168 hour time log (Due October 16th)](168_hour_time_log) 
 * [Planning Meeting (Due before Thanksgiving break)](Planning_meeting)
 * [Graduate Mentors (Multiple deadlines)](Mentors)
@@ -44,3 +44,5 @@ This single credit seminar course is taught as a live online course with asynchr
 
 * [Student Availability Poll (Due Sept 4th)](Availability_Poll)
 * [(Discussion) Introductions (Due Sept 11th)](0911-DISCUSSION-Introductions)
+* [(Discussion) Sharing Interpersonal Problems (Due Sept 24th)](0924-DISCUSSION-Sharing_interpersonal_Problems)
+* [(Discussion) Online learning technology (UPDATED - Due Sept 25th)](0925-DISCUSSION-Online_Technology_Questions_and_Ideas)
