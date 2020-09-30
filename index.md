@@ -17,7 +17,7 @@ This single credit seminar course is taught as a live online course with asynchr
 * [(Week 3) Sept 21 - Sept 25](0924-SEMINAR-Interpersonal_Problem_Solving)
 * [(Week 4) Sept 28 - Oct 2](1001-SEMINAR-Data_Science_QnA)
 * [(Week 5) Oct 5 - Oct 9](1008-SEMINAR-Adam_Alessio) 
-* [(Week 6) Oct 12 - Oct 16](1016-SEMINAR-Personalities.ipynb)
+* [(Week 6) Oct 12 - Oct 16](1016-SEMINAR-Personalities)
 * (Week 7) Oct 19 - Oct 23 
 * (Week 8) Oct 26 - Oct 30 
 * (Week 9) Nov 2 - Nov 13 
