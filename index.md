@@ -18,7 +18,7 @@ This single credit seminar course is taught as a live online course with asynchr
 * [(Week 4) Sept 28 - Oct 2](1001-SEMINAR-Data_Science_QnA)
 * [(Week 5) Oct 5 - Oct 9](1008-SEMINAR-Adam_Alessio) 
 * [(Week 6) Oct 12 - Oct 16](1016-SEMINAR-Calendars)
-* [(Week 7) Oct 19 - Oct 23](1016-SEMINAR-Personalities)
+* [(Week 7) Oct 19 - Oct 23](1023-SEMINAR-Personalities)
 * (Week 8) Oct 26 - Oct 30 
 * (Week 9) Nov 2 - Nov 13 
 * (Week 10) Nov 2 - Nov 13 
