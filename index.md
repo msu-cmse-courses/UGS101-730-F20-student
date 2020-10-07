@@ -17,8 +17,8 @@ This single credit seminar course is taught as a live online course with asynchr
 * [(Week 3) Sept 21 - Sept 25](0924-SEMINAR-Interpersonal_Problem_Solving)
 * [(Week 4) Sept 28 - Oct 2](1001-SEMINAR-Data_Science_QnA)
 * [(Week 5) Oct 5 - Oct 9](1008-SEMINAR-Adam_Alessio) 
-* [(Week 6) Oct 12 - Oct 16](1016-SEMINAR-Personalities)
-* (Week 7) Oct 19 - Oct 23 
+* [(Week 6) Oct 12 - Oct 16](1016-SEMINAR-Calendars)
+* [(Week 7) Oct 19 - Oct 23](1016-SEMINAR-Personalities)
 * (Week 8) Oct 26 - Oct 30 
 * (Week 9) Nov 2 - Nov 13 
 * (Week 10) Nov 2 - Nov 13 
@@ -31,6 +31,8 @@ This single credit seminar course is taught as a live online course with asynchr
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
 * Weekly D2L Disscution Topics
 	* [(Discussion) High Impact Learning (Due October 7th)](1007-DISCUSSION-High_Impact_Learning)
+	* [(Discussion) Time Manaement (Due October 15th)](1015-DISCUSSION-Time_Managment)
+	* [(Discussion) Personality Profiles (Due October 22nd)](1022-DISCUSSION-Personal_Profiles)
 
 ## Current Assignments
 * [Personality Assessment (Due Octber 15th)](1015-Personallity_Assessment)
