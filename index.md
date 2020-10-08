@@ -30,7 +30,6 @@ This single credit seminar course is taught as a live online course with asynchr
 ## Weekly Assignments
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
 * Weekly D2L Disscution Topics
-	* [(Discussion) High Impact Learning (Due October 7th)](1007-DISCUSSION-High_Impact_Learning)
 	* [(Discussion) Time Manaement (Due October 15th)](1015-DISCUSSION-Time_Managment)
 	* [(Discussion) Personality Profiles (Due October 22nd)](1022-DISCUSSION-Personal_Profiles)
 
@@ -48,3 +47,4 @@ This single credit seminar course is taught as a live online course with asynchr
 * [(Discussion) Online learning technology (UPDATED - Due Sept 25th)](0925-DISCUSSION-Online_Technology_Questions_and_Ideas)
 [(Discussion) Questions about Data Science Degrees (Due Sept 30th)](1002-DISCUSSION-Questions_about_Data_Science_Degree)
 * [Student Availability Poll Version 2.0 (Due Oct 2nd)](1002-Availability_Poll-V2)
+* [(Discussion) High Impact Learning (Due October 7th)](1007-DISCUSSION-High_Impact_Learning)
