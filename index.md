@@ -34,8 +34,8 @@ This single credit seminar course is taught as a live online course with asynchr
 	* [(Discussion) Personality Profiles (Due October 22nd)](1022-DISCUSSION-Personal_Profiles)
 
 ## Current Assignments
-* [Personality Assessment (Due Octber 15th)](1022-Personallity_Assessment)
 * [168 hour time log (Due October 16th)](168_hour_time_log) 
+* [Personality Assessment (Due Octber 22th)](1022-Personallity_Assessment)
 * [Planning Meeting (Due before Thanksgiving break)](Planning_meeting)
 * [Graduate Mentors (Multiple deadlines)](Mentors)
 
