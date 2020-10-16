@@ -11,23 +11,23 @@ This single credit seminar course is taught as a live online course with asynchr
 
 ## Schedule
 
-| Week | Dates | Notes | Topic |
-|------|-------|-------|-------|
-| 0 | Sept 2 - Sept 4 | - | [Welcome](0907-SEMINAR-Welcome) |
-| 1 | Sept 8 - Sept 11 | Labor Day | [Introductions](0908-SEMINAR-Introduction)  |
-| 2 | Sept 14 - Sept 18 |  - | [D2L](0914-SEMINAR-D2L) | 
-| 3 | Sept 21 - Sept 25 | - | [Interpersonal Problem Solving](0924-SEMINAR-Interpersonal_Problem_Solving)  | 
-| 4 | Sept 28 - Oct 2 | - | [Data Science Q&A](1001-SEMINAR-Data_Science_QnA)  |
-| 5 | Oct 5 - Oct 9 | - | [Internships](1008-SEMINAR-Adam_Alessio) | 
-| 6 | Oct 12 - Oct 16 | - | [Managing your Schedule and Tasks](1016-SEMINAR-Calendars) | 
-| 7 | Oct 19 - Oct 23 | - | [Personalities](1023-SEMINAR-Personalities)
-| 8 | Oct 26 - Oct 30 | - | | 
-| 9 | Nov 2 - Nov 13 | - | | 
-| 10 | Nov 2 - Nov 13 | - | | 
-| 11 | Nov 15 - Nov 20 | - | | 
-| 12 | Nov 23 - Nov 25  |  Thanksgiving |  | 
-| 13 | Nov 30 - Dec 4 | - | | 
-| 14 | Dec 7 - Dec 11 | - | | 
+| Week | Dates |  Topic |
+|------|-------|-------|
+| 0 | Sept 2 - Sept 4 | [Welcome](0907-SEMINAR-Welcome) |
+| 1 | Sept 8 - Sept 11 | [Introductions](0908-SEMINAR-Introduction)  |
+| 2 | Sept 14 - Sept 18 | [D2L](0914-SEMINAR-D2L) | 
+| 3 | Sept 21 - Sept 25| [Interpersonal Problem Solving](0924-SEMINAR-Interpersonal_Problem_Solving)  | 
+| 4 | Sept 28 - Oct 2 | [Data Science Q&A](1001-SEMINAR-Data_Science_QnA)  |
+| 5 | Oct 5 - Oct 9 | [Internships](1008-SEMINAR-Adam_Alessio) | 
+| 6 | Oct 12 - Oct 16 | [Managing your Schedule and Tasks](1016-SEMINAR-Calendars) | 
+| 7 | Oct 19 - Oct 23 | [Personalities](1023-SEMINAR-Personalities)
+| 8 | Oct 26 - Oct 30 | | 
+| 9 | Nov 2 - Nov 13 | | 
+| 10 | Nov 2 - Nov 13 | | 
+| 11 | Nov 15 - Nov 20 | | 
+| 12 | Nov 23 - Nov 25  |  | 
+| 13 | Nov 30 - Dec 4 | | 
+| 14 | Dec 7 - Dec 11 | | 
 
 ## Weekly Assignments
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
