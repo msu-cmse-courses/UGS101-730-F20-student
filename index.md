@@ -11,13 +11,13 @@ This single credit seminar course is taught as a live online course with asynchr
 
 ## Schedule
 
-* [(Week 0) Welcome: Sept 2 - Sept 4](0907-SEMINAR-Welcome)
-* [(Week 1) Introductions: Sept 8 - Sept 11 (Labor Day week)](0908-SEMINAR-Introduction)
-* [(Week 2) D2L: Sept 14 - Sept 18](0914-SEMINAR-D2L)
-* [(Week 3) Interpersonal Problem Solving: Sept 21 - Sept 25](0924-SEMINAR-Interpersonal_Problem_Solving)
-* [(Week 4) Data Science Q&A: Sept 28 - Oct 2](1001-SEMINAR-Data_Science_QnA)
-* [(Week 5) Internships: Oct 5 - Oct 9](1008-SEMINAR-Adam_Alessio) 
-* [(Week 6) Managing your Schedule and Tasks: Oct 12 - Oct 16](1016-SEMINAR-Calendars)
+* [(Week 0) _**Welcome**_: Sept 2 - Sept 4](0907-SEMINAR-Welcome)
+* [(Week 1) _**Introductions**_: Sept 8 - Sept 11 (Labor Day week)](0908-SEMINAR-Introduction)
+* [(Week 2) _**D2L**_: Sept 14 - Sept 18](0914-SEMINAR-D2L)
+* [(Week 3) _**Interpersonal Problem Solving**_: Sept 21 - Sept 25](0924-SEMINAR-Interpersonal_Problem_Solving)
+* [(Week 4) _**Data Science Q&A**_: Sept 28 - Oct 2](1001-SEMINAR-Data_Science_QnA)
+* [(Week 5) _**Internships**_: Oct 5 - Oct 9](1008-SEMINAR-Adam_Alessio) 
+* [(Week 6) _**Managing your Schedule and Tasks**_: Oct 12 - Oct 16](1016-SEMINAR-Calendars)
 * [(Week 7) Oct 19 - Oct 23](1023-SEMINAR-Personalities)
 * (Week 8) Oct 26 - Oct 30 
 * (Week 9) Nov 2 - Nov 13 
