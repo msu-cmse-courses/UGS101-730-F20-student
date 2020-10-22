@@ -14,12 +14,12 @@ This single credit seminar course is taught as a live online course with asynchr
 | Week | Dates |  Topic |
 |------|-------|-------|
 | 0 | Sept 2 - Sept 4 | [Welcome](0907-SEMINAR-Welcome) |
-| 1 | Sept 8 - Sept 11 | [Introductions](0908-SEMINAR-Introduction)  |
-| 2 | Sept 14 - Sept 18 | [D2L](0914-SEMINAR-D2L) | 
-| 3 | Sept 21 - Sept 25| [Interpersonal Problem Solving](0924-SEMINAR-Interpersonal_Problem_Solving)  | 
-| 4 | Sept 28 - Oct 2 | [Data Science Q&A](1001-SEMINAR-Data_Science_QnA)  |
-| 5 | Oct 5 - Oct 9 | [Internships](1008-SEMINAR-Adam_Alessio) | 
-| 6 | Oct 12 - Oct 16 | [Managing your Schedule and Tasks](1016-SEMINAR-Calendars) | 
+| 1 | Tues Sept 8 2-3pm | [Introductions](0908-SEMINAR-Introduction)  |
+| 2 | Mon Sept 14 5-6pm  | [D2L](0914-SEMINAR-D2L) | 
+| 3 | Thurs Sept 24 1-2pm | [Interpersonal Problem Solving](0924-SEMINAR-Interpersonal_Problem_Solving)  | 
+| 4 | Thurs Oct 1 1-2pm | [Data Science Q&A](1001-SEMINAR-Data_Science_QnA)  |
+| 5 | Thurs Oct 8 12:30-1:30pm  | [Internships](1008-SEMINAR-Adam_Alessio) | 
+| 6 | Thurs Oct 16 8-9am | [Managing your Schedule and Tasks](1016-SEMINAR-Calendars) | 
 | 7 | Fri Oct 23 8-9am | [Personalities](1023-SEMINAR-Personalities)
 | 8 | Wed Oct 28 5-6pm| Tracking your Time | 
 | 9 | Mon Sept 2 5-6pm  | Gratitude | 
