@@ -20,10 +20,10 @@ This single credit seminar course is taught as a live online course with asynchr
 | 4 | Sept 28 - Oct 2 | [Data Science Q&A](1001-SEMINAR-Data_Science_QnA)  |
 | 5 | Oct 5 - Oct 9 | [Internships](1008-SEMINAR-Adam_Alessio) | 
 | 6 | Oct 12 - Oct 16 | [Managing your Schedule and Tasks](1016-SEMINAR-Calendars) | 
-| 7 | Oct 19 - Oct 23 | [Personalities](1023-SEMINAR-Personalities)
-| 8 | Oct 26 - Oct 30 | | 
-| 9 | Nov 2 - Nov 13 | | 
-| 10 | Nov 2 - Nov 13 | | 
+| 7 | Fri Oct 23 8-9am | [Personalities](1023-SEMINAR-Personalities)
+| 8 | Wed Oct 28 5-6pm| Tracking your Time | 
+| 9 | Mon Sept 2 5-6pm  | Gratitude | 
+| 10 | Fri Sept 13 8-9am   | Virtual Campus Tour | 
 | 11 | Nov 15 - Nov 20 | | 
 | 12 | Nov 23 - Nov 25  |  | 
 | 13 | Nov 30 - Dec 4 | | 
@@ -32,11 +32,9 @@ This single credit seminar course is taught as a live online course with asynchr
 ## Weekly Assignments
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
 * Weekly D2L Disscution Topics
-	* [(Discussion) Time Manaement (Due October 15th)](1015-DISCUSSION-Time_Managment)
 	* [(Discussion) Personality Profiles (Due October 22nd)](1022-DISCUSSION-Personal_Profiles)
 
 ## Current Assignments
-* [168 hour time log (Due October 16th)](168_hour_time_log) 
 * [Personality Assessment (Due Octber 22th)](1022-Personallity_Assessment)
 * [Planning Meeting (Due before Thanksgiving break)](Planning_meeting)
 * [Graduate Mentors (Multiple deadlines)](Mentors)
@@ -50,3 +48,5 @@ This single credit seminar course is taught as a live online course with asynchr
 [(Discussion) Questions about Data Science Degrees (Due Sept 30th)](1002-DISCUSSION-Questions_about_Data_Science_Degree)
 * [Student Availability Poll Version 2.0 (Due Oct 2nd)](1002-Availability_Poll-V2)
 * [(Discussion) High Impact Learning (Due October 7th)](1007-DISCUSSION-High_Impact_Learning)
+* [(Discussion) Time Manaement (Due October 15th)](1015-DISCUSSION-Time_Managment)
+* [168 hour time log (Due October 16th)](168_hour_time_log) 
