@@ -21,7 +21,7 @@ This single credit seminar course is taught as a live online course with asynchr
 | 5 | Thurs Oct 8 12:30-1:30pm  | [Internships](1008-SEMINAR-Adam_Alessio) | 
 | 6 | Thurs Oct 16 8-9am | [Managing your Schedule and Tasks](1016-SEMINAR-Calendars) | 
 | 7 | Fri Oct 23 8-9am | [Personalities](1023-SEMINAR-Personalities)
-| 8 | Wed Oct 28 5-6pm| Tracking your Time | 
+| 8 | Wed Oct 28 5-6pm| [Tracking your Time](1028-SEMINAR-Attitude-of-gratitude) | 
 | 9 | Mon Nov 2 5-6pm  | Gratitude | 
 | 10 | Fri Nov 13 8-9am   | Virtual Campus Tour | 
 | 11 | Nov 15 - Nov 20 | | 
@@ -29,13 +29,14 @@ This single credit seminar course is taught as a live online course with asynchr
 | 13 | Nov 30 - Dec 4 | | 
 | 14 | Dec 7 - Dec 11 | | 
 
+
 ## Weekly Assignments
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
 * Weekly D2L Disscution Topics
-	* [(Discussion) Personality Profiles (Due October 22nd)](1022-DISCUSSION-Personal_Profiles)
+	* [(Discussion) Time Tracking (Due October 28th)](1028-DISCUSSION-Time_Tracking)
+	* [(Discussion) Attidude of Gratitude (Due November 1st](1101-DISCUSSION-Gratitude)
 
 ## Current Assignments
-* [Personality Assessment (Due Octber 22th)](1022-Personallity_Assessment)
 * [Planning Meeting (Due before Thanksgiving break)](Planning_meeting)
 * [Graduate Mentors (Multiple deadlines)](Mentors)
 
@@ -50,3 +51,5 @@ This single credit seminar course is taught as a live online course with asynchr
 * [(Discussion) High Impact Learning (Due October 7th)](1007-DISCUSSION-High_Impact_Learning)
 * [(Discussion) Time Manaement (Due October 15th)](1015-DISCUSSION-Time_Managment)
 * [168 hour time log (Due October 16th)](168_hour_time_log) 
+* [(Discussion) Personality Profiles (Due October 22nd)](1022-DISCUSSION-Personal_Profiles)
+* [Personality Assessment (Due Octber 22th)](1022-Personallity_Assessment)
