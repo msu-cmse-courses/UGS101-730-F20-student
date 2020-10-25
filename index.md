@@ -22,8 +22,8 @@ This single credit seminar course is taught as a live online course with asynchr
 | 6 | Thurs Oct 16 8-9am | [Managing your Schedule and Tasks](1016-SEMINAR-Calendars) | 
 | 7 | Fri Oct 23 8-9am | [Personalities](1023-SEMINAR-Personalities)
 | 8 | Wed Oct 28 5-6pm| Tracking your Time | 
-| 9 | Mon Sept 2 5-6pm  | Gratitude | 
-| 10 | Fri Sept 13 8-9am   | Virtual Campus Tour | 
+| 9 | Mon Nov 2 5-6pm  | Gratitude | 
+| 10 | Fri Nov 13 8-9am   | Virtual Campus Tour | 
 | 11 | Nov 15 - Nov 20 | | 
 | 12 | Nov 23 - Nov 25  |  | 
 | 13 | Nov 30 - Dec 4 | | 
