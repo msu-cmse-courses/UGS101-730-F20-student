@@ -36,6 +36,7 @@ This single credit seminar course is taught as a live online course with asynchr
 	* [(Discussion) Attidude of Gratitude (Due November 1st](1101-DISCUSSION-Gratitude)
 
 ## Current Assignments
+* [Spring 2021 Weekly Schedule (Due December 4th, 2021)](Spring_2021_Schedule)
 * [Planning Meeting (Due before Thanksgiving break)](Planning_meeting)
 * [Graduate Mentors (Multiple deadlines)](Mentors)
 
