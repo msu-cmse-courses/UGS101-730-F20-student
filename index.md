@@ -33,7 +33,7 @@ This single credit seminar course is taught as a live online course with asynchr
 ## Weekly Assignments
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
 * Weekly D2L Disscution Topics
-	* [(Discussion) Attidude of Gratitude (Due November 1st](1101-DISCUSSION-Gratitude)
+	* Waiting on Dirk to post something.
 
 ## Current Assignments
 * [Spring 2021 Weekly Schedule (Due December 4th, 2021)](Spring_2021_Schedule)
@@ -54,3 +54,4 @@ This single credit seminar course is taught as a live online course with asynchr
 * [(Discussion) Personality Profiles (Due October 22nd)](1022-DISCUSSION-Personal_Profiles)
 * [Personality Assessment (Due Octber 22th)](1022-Personallity_Assessment)
 * [(Discussion) Time Tracking (Due October 28th)](1028-DISCUSSION-Time_Tracking)
+* [(Discussion) Attidude of Gratitude (Due November 1st](1101-DISCUSSION-Gratitude)
