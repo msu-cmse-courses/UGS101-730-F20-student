@@ -23,7 +23,7 @@ This single credit seminar course is taught as a live online course with asynchr
 | 7 | Fri Oct 23 8-9am | [Personalities](1023-SEMINAR-Personalities)
 | 8 | Wed Oct 28 5-6pm| [Tracking your Time](1028-SEMINAR-Time_Logs)
 | 9 | Mon Nov 2 5-6pm  | [Gratitude](1102-SEMINAR-Attitude-of-gratitude) | 
-| 10 | Fri Nov 13 8-9am   | Virtual Campus Tour | 
+| 10 | Fri Nov 13 8-9am   | [Virtual Campus Tour](1113-SEMINAR-Campus_Tour) | 
 | 11 | Nov 15 - Nov 20 | | 
 | 12 | Nov 23 - Nov 25  |  | 
 | 13 | Nov 30 - Dec 4 | | 
@@ -33,7 +33,7 @@ This single credit seminar course is taught as a live online course with asynchr
 ## Weekly Assignments
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
 * Weekly D2L Disscution Topics
-	* Waiting on Dirk to post something.
+	* [(Discussion) Seminar Ideas (Due November 13th)](1113-DISCUSSION-Seminar_Ideas)
 
 ## Current Assignments
 * [Spring 2021 Weekly Schedule (Due December 4th, 2021)](Spring_2021_Schedule)
@@ -41,7 +41,6 @@ This single credit seminar course is taught as a live online course with asynchr
 * [Graduate Mentors (Multiple deadlines)](Mentors)
 
 ## Past Assignments
-
 * [Student Availability Poll (Due Sept 4th)](Availability_Poll)
 * [(Discussion) Introductions (Due Sept 11th)](0911-DISCUSSION-Introductions)
 * [(Discussion) Sharing Interpersonal Problems (Due Sept 24th)](0924-DISCUSSION-Sharing_interpersonal_Problems)
