@@ -24,10 +24,10 @@ This single credit seminar course is taught as a live online course with asynchr
 | 8 | Wed Oct 28 5-6pm| [Tracking your Time](1028-SEMINAR-Time_Logs)
 | 9 | Mon Nov 2 5-6pm  | [Gratitude](1102-SEMINAR-Attitude-of-gratitude) | 
 | 10 | Fri Nov 13 8-9am   | [Virtual Campus Tour](1113-SEMINAR-Campus_Tour) | 
-| 11 | Nov 15 - Nov 20 | | 
-| 12 | Nov 23 - Nov 25  |  | 
-| 13 | Nov 30 - Dec 4 | | 
-| 14 | Dec 7 - Dec 11 | | 
+| 11 | Nov 15 - Nov 20 | No Seminar | 
+| 12 | Tues Nov 24 1-2pm  | Personal Finances | 
+| 13 | Nov 30 - Dec 4 | No Seiminar | 
+| 14 | Dec 9 8-9am | Programming | 
 
 
 ## Weekly Assignments
