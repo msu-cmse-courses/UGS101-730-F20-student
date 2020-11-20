@@ -34,9 +34,9 @@ This single credit seminar course is taught as a live online course with asynchr
 
 ## Weekly Assignments
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
-* Weekly D2L Disscution Topics
-       * [(Discussion) Personal Finance](1124-DISCUSSION-Personal-Finance)
-       * [(Discussion) Programming](1208-DISCUSSION-Hacking-and-Programming)
+* Weekly D2L Disscution Topics 
+	* [(Discussion) Personal Finance](1124-DISCUSSION-Personal-Finance) 
+	* [(Discussion) Programming](1208-DISCUSSION-Hacking-and-Programming)
 
 ## Current Assignments
 * [Spring 2021 Weekly Schedule (Due December 4th, 2021)](Spring_2021_Schedule)
