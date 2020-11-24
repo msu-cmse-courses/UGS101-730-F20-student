@@ -30,13 +30,9 @@ This single credit seminar course is taught as a live online course with asynchr
 | 14 | Dec 9 8-9am | [Programming](1209-SEMINAR-Hacking-and-programming) |  
 
         
-        
-
 ## Weekly Assignments
 * [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
-* Weekly D2L Disscution Topics 
-	* [(Discussion) Personal Finance](1124-DISCUSSION-Personal-Finance) 
-	* [(Discussion) Programming](1208-DISCUSSION-Hacking-and-Programming)
+* [(Discussion) Programming](1208-DISCUSSION-Hacking-and-Programming)
 
 ## Current Assignments
 * [Spring 2021 Weekly Schedule (Due December 4th, 2021)](Spring_2021_Schedule)
@@ -58,3 +54,4 @@ This single credit seminar course is taught as a live online course with asynchr
 * [(Discussion) Time Tracking (Due October 28th)](1028-DISCUSSION-Time_Tracking)
 * [(Discussion) Attidude of Gratitude (Due November 1st](1101-DISCUSSION-Gratitude)
 * [(Discussion) Seminar Ideas (Due November 13th)](1113-DISCUSSION-Seminar_Ideas)
+* [(Discussion) Personal Finance](1124-DISCUSSION-Personal-Finance) 
