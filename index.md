@@ -30,15 +30,6 @@ This single credit seminar course is taught as a live online course with asynchr
 | 14 | Dec 9 8-9am | [Programming](1209-SEMINAR-Hacking-and-programming) |  
 
         
-## Weekly Assignments
-* [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
-* [(Discussion) Programming](1208-DISCUSSION-Hacking-and-Programming)
-
-## Current Assignments
-* [Spring 2021 Weekly Schedule (Due December 4th, 2021)](Spring_2021_Schedule)
-* [Planning Meeting (Due before Thanksgiving break)](Planning_meeting)
-* [Graduate Mentors (Multiple deadlines)](Mentors)
-
 ## Past Assignments
 * [Student Availability Poll (Due Sept 4th)](Availability_Poll)
 * [(Discussion) Introductions (Due Sept 11th)](0911-DISCUSSION-Introductions)
@@ -55,3 +46,8 @@ This single credit seminar course is taught as a live online course with asynchr
 * [(Discussion) Attidude of Gratitude (Due November 1st](1101-DISCUSSION-Gratitude)
 * [(Discussion) Seminar Ideas (Due November 13th)](1113-DISCUSSION-Seminar_Ideas)
 * [(Discussion) Personal Finance](1124-DISCUSSION-Personal-Finance) 
+* [Weekly 3x3 report (Due every Friday Starting Sept 4th)](3x3_Weekly_Report)
+* [(Discussion) Programming](1208-DISCUSSION-Hacking-and-Programming)
+* [Spring 2021 Weekly Schedule (Due December 4th, 2021)](Spring_2021_Schedule)
+* [Planning Meeting (Due before Thanksgiving break)](Planning_meeting)
+* [Graduate Mentors (Multiple deadlines)](Mentors)
